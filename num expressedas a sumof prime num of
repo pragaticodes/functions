@@ -46,4 +46,4 @@ bool checkPrime(int n)
 
     return isPrime;
 }
-Output
+
